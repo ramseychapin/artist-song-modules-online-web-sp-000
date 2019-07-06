@@ -6,9 +6,4 @@ module Paramable
     end
 
   end
-
-  module ClassMethods
-
-
-  end
 end
