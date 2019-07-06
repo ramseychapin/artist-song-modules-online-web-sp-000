@@ -1,8 +1,7 @@
 require 'pry'
 
 class Artist
-  extend Memorable::ClassMethods
-  include FancyDance::InstanceMethods
+  extend Memorable
 
   attr_accessor :name
   attr_reader :songs
