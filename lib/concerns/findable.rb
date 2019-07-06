@@ -1,4 +1,4 @@
-module Finable
+module Findable
   module InstanceMethods
 
   end
